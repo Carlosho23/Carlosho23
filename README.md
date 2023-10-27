@@ -1,8 +1,32 @@
-### Eae bom?
+# Bem-vindo ao Meu Perfil! 👋
 
+Olá, eu sou [Carlos Henrique de Oliveira](https://github.com/Carlosho23), um entusiasta de Desenvolvimento Web, e Mobile. Estou sempre buscando aprender coisas novas e compartilhar meu conhecimento com a comunidade.
 
-- 🔭 Hoje trabalho com full stack
-- 🌱 Estudando Flutter
+## Sobre Mim 🚀
+
+- 🌱 Atualmente estou aprendendo Flutter.
+- 👯 Estou procurando colaborar em projetos Web e Mobile.
+- 💬 Pergunte-me sobre Android, Java.
+- ⌨️ Dev Full Stak na Nextage.
+
+## Projetos Destacados 🛠️
+
+- [Controle na Mão](encurtador.com.br/guDXZ) - Sistema para restaurantes com comanda eletrônica.
+
+## Linguagens e Ferramentas 🔧
+
+- Java 
+- SpringBoot
+- Angular
+- Android
+
+## Estatísticas do GitHub 📊
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
+## Vamos Conectar! 🤝
+
+Se você tem um projeto interessante, uma pergunta ou só quer bater um papo, fique à vontade para me contatar. Vamos criar coisas incríveis juntos!
 
 <div align="center">
   <a href="https://github.com/Carlosho23">
