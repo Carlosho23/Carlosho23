@@ -20,14 +20,11 @@ Olá, eu sou [Carlos Henrique de Oliveira](https://github.com/Carlosho23), um en
 - Angular
 - Android
 
-## Estatísticas do GitHub 📊
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
 ## Vamos Conectar! 🤝
 
 Se você tem um projeto interessante, uma pergunta ou só quer bater um papo, fique à vontade para me contatar. Vamos criar coisas incríveis juntos!
 
+## Estatísticas do GitHub 📊
 <div align="center">
   <a href="https://github.com/Carlosho23">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Carlosho23&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
