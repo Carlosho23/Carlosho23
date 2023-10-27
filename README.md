@@ -3,7 +3,6 @@
 
 - 🔭 Hoje trabalho com full stack
 - 🌱 Estudando Flutter
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/Carlosho23">
