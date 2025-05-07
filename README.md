@@ -1,57 +1,73 @@
-# Bem-vindo ao Meu Perfil! 👋
+<h1 align="center">👋 Olá! Eu sou o Carlos Henrique</h1>
+<p align="center">Desenvolvedor Full Stack | Web & Mobile | Apaixonado por tecnologia e inovação</p>
 
-Olá, eu sou [Carlos Henrique de Oliveira](https://github.com/Carlosho23), um entusiasta de Desenvolvimento Web, e Mobile. Estou sempre buscando aprender coisas novas e compartilhar meu conhecimento com a comunidade.
-
-## Sobre Mim 🚀
-
-- 🌱 Atualmente estou aprendendo Flutter.
-- 👯 Estou procurando colaborar em projetos Web e Mobile.
-- 💬 Pergunte-me sobre Android, Java.
-- ⌨️ Dev Full Stak na Nextage.
-
-## Projetos Destacados 🛠️
-
-- [Controle na Mão](encurtador.com.br/guDXZ) - Sistema para restaurantes com comanda eletrônica.
-
-## Linguagens e Ferramentas 🔧
-
-- Java 
-- SpringBoot
-- Angular
-- Android
-
-## Vamos Conectar! 🤝
-
-Se você tem um projeto interessante, uma pergunta ou só quer bater um papo, fique à vontade para me contatar. Vamos criar coisas incríveis juntos!
-
-## Estatísticas do GitHub 📊
-<div align="center">
+<p align="center">
   <a href="https://github.com/Carlosho23">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Carlosho23&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlosho23&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Carlos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Carlos-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Carlos-Ionic" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg">
-  <img align="center" alt="Carlos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Carlos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Carlos-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Carlos-Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
-  <img align="center" alt="Carlos-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-  <img align="center" alt="Carlos-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5eeea355389655.59822ff824b72.gif">
-</div>
-  
-  ##
- 
-<div> 
+    <img src="https://img.shields.io/github/followers/Carlosho23?label=Seguidores&style=social" alt="GitHub Followers">
+  </a>
+  <a href="mailto:carlosho23@gmail.com">
+    <img src="https://img.shields.io/badge/email-carlosho23@gmail.com-red?style=flat-square&logo=gmail" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/carlos-oliveira-30777a165/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Carlos%20Oliveira-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+  </a>
+</p>
 
-  <a href="https://instagram.com/carlosho23" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:carlosho23@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/carlos-oliveira-30777a165" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- ![Snake animation](https://github.com/Carlosho23/Carlosho23/blob/output/github-contribution-grid-snake.svg) 
- 
+---
+
+## 🚀 Sobre mim
+
+- 🔭 Dev Full Stack na **Nextage**
+- 🌱 Aprendendo **Flutter**
+- 👨‍💻 Experiência com **Java**, **Spring Boot**, **Angular**, **Android** e **Ionic**
+- 💬 Pergunte-me sobre **Java**, **Android**, **Web e Mobile**
+- 🤝 Aberto a colaborações e projetos interessantes
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40"/>
 </div>
+
+---
+
+## 🔥 Projetos em Destaque
+
+### 🎯 [Controle na Mão](https://encurtador.com.br/guDXZ)  
+> Sistema de comanda eletrônica para restaurantes, feito para otimizar o atendimento e a gestão de pedidos.
+
+---
+
+## 📈 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carlosho23&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlosho23&layout=compact&theme=tokyonight" />
+</div>
+
+---
+
+## 🌐 Onde me encontrar
+
+<p align="center">
+  <a href="https://instagram.com/carlosho23"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://discord.gg/wagxzStdcR"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="mailto:carlosho23@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/carlos-oliveira-30777a165/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/Carlosho23/Carlosho23/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
